@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\BuildMLearn_mobile-template\FlashCardsTemplate\source\FlashCardsTemplateApp\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f50b042edac65a2c737ed0ea01b993e1b2d91cc9">
+        <dex dex="C:\BuildMLearn_mobile-template\FlashCardsTemplate\source\FlashCardsTemplateApp\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_2391a68831d28911bc1c870eaa8f5bc138842049\classes.dex" />
+    </item>
+
+</items>
